@@ -1,4 +1,22 @@
-# Excel_Project-Data_Analytics
-My Excel Project Demonstrating My Skills
+# H1
+## H2
+### H3
+**bold text**  
+*Italicized Text*  
+1.First Item  
+2.Second Item  
+3.Third Item  
 
-I edited this on github.com
+-First Item  
+-second Item  
+-Third Item  
+`code`
+```
+multiple
+code
+line
+```
+
+[title](https.//www.google.com)
+
+![alt text](image.jpg)
